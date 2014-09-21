@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.geopeers.db"
+    versionCode = "10" 
+    version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>PhoneGap Sqlite Example</name>
+
+    <description>
+      An example for sqlite
+    </description>
+
+    <author href="https://www.geopeers.com" email="support@geopeers.com">
+      Scott Kaplan
+    </author>
+
+    <gap:plugin name="com.millerjames01.sqlite-plugin" />
+</widget>
